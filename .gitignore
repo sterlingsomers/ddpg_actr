@@ -107,14 +107,7 @@ venv.bak/
 
 .gitignore
 .idea/
-ActorNetwork.py
-CriticNetwork.py
-ReplayBuffer.py
-actr.py
-ddpg.py
-ddpg_agent.lisp
-ddpg_agent.lisp~
-expert_agent.py
+
 expert_tracetrain.py
 models/
 traces/
